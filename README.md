@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning: coading
 - 👯 I’m always looking to collaborate with: teacher who teach me
 - 💬 Ask me about: anything, I am happy to help
-- 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
-- 💜 Interests: playing, travel, dachshunds, internet culture, video games, Star Trek
+- 🌍 I support: in python web,android app development
+- 💜 Interests: playing, travel, dachshunds, internet culture, video games
 - ⚡ Fun fact: My ultimate dream is to be on interview with formal uniform. 🖖
 
 <br/>
